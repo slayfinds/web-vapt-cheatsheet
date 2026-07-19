@@ -132,7 +132,7 @@ Learn:
 
 <br>
 
-`STATUS // COMING SOON`
+**[OPEN RECON FIELD NOTES →](api_vapt.md)**
 
 </td>
 </tr>
